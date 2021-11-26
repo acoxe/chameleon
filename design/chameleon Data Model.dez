@@ -475,7 +475,7 @@
 </DT>
 </ATTR>
 <ATTR>
-<NAME>cameleonUserId</NAME>
+<NAME>selectedUserId</NAME>
 <ID>5</ID>
 <POSNR>0</POSNR>
 <SCHEMA></SCHEMA>
@@ -489,7 +489,7 @@
 <INC>1</INC>
 </DT>
 <DEFCON>
-<NAME>DEF_game_cameleonUserId</NAME>
+<NAME>DEF_game_selectedUserId</NAME>
 <NAMETEMPLATE>DEF_%table%_%column%</NAMETEMPLATE>
 <ID>2</ID>
 <POSNR>0</POSNR>
@@ -1297,7 +1297,7 @@
 <ENTC>
 <ID>3</ID>
 <DIAGRAMID>1</DIAGRAMID>
-<W>105</W>
+<W>103</W>
 <H>108</H>
 <L>434</L>
 <T>166</T>
@@ -1479,11 +1479,11 @@
 <TORELATIVEY>5000</TORELATIVEY>
 <POINTS>
 <POINT>
-<X>509</X>
+<X>507</X>
 <Y>274</Y>
 </POINT>
 <POINT>
-<X>509</X>
+<X>507</X>
 <Y>309</Y>
 </POINT>
 <POINT>
@@ -1545,11 +1545,11 @@
 <Y>121</Y>
 </POINT>
 <POINT>
-<X>520</X>
+<X>518</X>
 <Y>121</Y>
 </POINT>
 <POINT>
-<X>520</X>
+<X>518</X>
 <Y>165</Y>
 </POINT>
 </POINTS>
